@@ -1,0 +1,8 @@
+com\paypal\bfs\test\employeeserv\api\model\Employee.class
+com\paypal\bfs\test\employeeserv\model\EmployeeObject.class
+com\paypal\bfs\test\employeeserv\model\ResponseObject.class
+com\paypal\bfs\test\employeeserv\api\model\Address.class
+com\paypal\bfs\test\employeeserv\service\EmployeeService.class
+com\paypal\bfs\test\employeeserv\model\AddressObject.class
+com\paypal\bfs\test\employeeserv\api\EmployeeResource.class
+com\paypal\bfs\test\employeeserv\repository\EmployeeRepository.class
