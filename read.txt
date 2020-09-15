@@ -1,1 +1,2 @@
-Updating read file with text
+Updating read file with txt
+adding new line
